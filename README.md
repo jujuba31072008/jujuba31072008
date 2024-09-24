@@ -7,5 +7,9 @@ Meu nome é Ana Júlia Barz
 - ULtilizo o Github para para minha organização e para compartilhar meus projetos
 
 ### CONTATO 📫 
-ana.barz.santos@escola.pr.gov.br 
+ana.barz.santos@escola.pr.gov.br  
+
+
+  
+![](https://media.tenor.com/PQhYXs7lLmsAAAAM/switch_dayz-dayz.gif)
 
