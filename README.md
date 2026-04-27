@@ -4,7 +4,7 @@ Meu nome é Ana Júlia Barz
 
 - Sou estudante do Alura
 - Estou me desenvolvento na linguagem JavaScript
-- ULtilizo o Github para para minha organização e para compartilhar meus projetos
+- Ultilizo o Github para para minha organização e para compartilhar meus projetos
 
 ### CONTATO 📫 
 ana.barz.santos@escola.pr.gov.br  
